@@ -73,4 +73,4 @@ Made with :coffee: by **Haitham Aouati**
 
 ## License
 
-Undead is licensed under [Unlicense license](LICENSE).
+Undead is licensed under [WTFPL license](LICENSE).
